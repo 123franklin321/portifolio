@@ -6,3 +6,47 @@ body{
     font-size: 18px; 
     margin: 0 20px;  
 }
+.text-gray{
+    color: #828282
+}
+.my-10{
+    margin: 100px 0;
+}
+
+.btn{
+    border-radius: 0;
+    padding: 10px 30px;
+}
+
+.btn-primary {
+    background-color: green;
+    color: white;
+    border-color: green;
+}
+
+.btn-primary:hover{
+    background-color: greenyellow;
+    border-color: greenyellow;
+}
+
+.btn-outline-secondary{
+    color: white;
+    border-color: white;
+}
+
+.btn-outline-secondary:hover{
+    background-color: white;
+    color: #171717;
+    border-color: white;
+}
+
+.image-perfil{
+    border: 2px solid #202020;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.image-perfil img{
+    width: 100%;
+    border-radius: 50%;
+}
