@@ -63,3 +63,14 @@ body{
 .cadastro{
     padding: 20px;
 }
+
+.hb{
+    text-align: center;
+    padding: 60px;
+}
+
+.h{
+    color: lawngreen;
+    padding-left: 235px;
+    font-size: 30px;
+}
